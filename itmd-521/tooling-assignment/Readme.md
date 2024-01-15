@@ -1,6 +1,6 @@
 # Ramu Chirumamilla
 
-![Ramu Chirumamilla](your_picture_url)
+![Ramu Chirumamilla](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/tooling-assignment/images/profile.jpg)
 
 ## Where are you from?
 
