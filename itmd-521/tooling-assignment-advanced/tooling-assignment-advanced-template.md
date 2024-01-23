@@ -13,11 +13,11 @@ Screenshot from the host OS of http://192.168.33.10  or whichever private IP you
 ## MariaDB Version
 
 Execute command: `mysql -V`
-![](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/.png)
+![](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/mariadb.png)
 ## Java Version
 
 Execute command: `java -version`
-![](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/.png)
+![](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/java.png)
 ## Spark Versions
 
 Execute command: `pyspark` and `spark-shell` and take screenshots of each.
