@@ -4,7 +4,7 @@ Provide the required screenshots to show that tooling has been properly installe
 
 ## Hostname Change
 
-Image goes here
+![Hostname Change](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/hostname.png)
 
 ## WebServer Install
 
