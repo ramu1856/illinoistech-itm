@@ -42,18 +42,18 @@ Make sure the `vagrant@your-initials` is in the screenshot
 ### PySpark ScreenShot
 
 Place PySpark screenshot here
-![]()
+![Screenshot1](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/Screenshotwk3_1.png)
 
 ### SBT build Output Screenshot
 
 Place screenshot here
 
-![]()
+![Screenshot2](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/Screenshotwk3_2.png)
 ### Spark Scala ScreenShot
 
 Place Scala screenshot here
 
-![]()
+![Screenshot3](https://github.com/ramu1856/illinoistech-itm/blob/main/itmd-521/images/Screenshotwk3_2.png)
 ## Deliverables
 
 Using this template, under the `itmd-521` directory in your local repository, create a sub-directory named `labs`. Under that create another subdirectory named `week-03` and place this Readme.md file in that directory along with a folder for images.
